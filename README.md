@@ -26,8 +26,8 @@ docker run -d \
   --publish 3100:7745 \
   --env TZ=Europe/Bucharest \
   --volume /path/to/data/folder/:/data \
-  ghcr.io/hay-kot/homebox:latest
-# ghcr.io/hay-kot/homebox:latest-rootless
+  ghcr.io/infracritical/homebox:latest
+# ghcr.io/infracritical/homebox:latest-rootless
 ```
 
 <!-- CONTRIBUTING -->
