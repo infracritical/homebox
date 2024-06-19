@@ -11,7 +11,7 @@
 
 ## Quick Start
 
-[Configuration & Docker Compose](https://hay-kot.github.io/homebox/quick-start)
+[Configuration & Docker Compose](http://homebox.infracritical.com/homebox/quick-start)
 
 ```bash
 # If using the rootless image, ensure data 
