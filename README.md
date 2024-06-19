@@ -4,11 +4,9 @@
 
 <h1 align="center" style="margin-top: -10px"> HomeBox </h1>
 <p align="center" style="width: 100;">
-   <a href="https://hay-kot.github.io/homebox/">Docs</a>
+   <a href="http://homebox.infracritical.com">Docs</a>
    |
-   <a href="https://homebox.fly.dev">Demo</a>
-   |
-   <a href="https://discord.gg/tuncmNrE4z">Discord</a>
+   <a href="http://homebox.demo.infracritical.com">Demo</a>
 </p>
 
 ## Quick Start
